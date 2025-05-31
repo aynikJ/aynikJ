@@ -1,66 +1,69 @@
-## 👋 Hola, soy Andy Contento
+## 👋 ¡Hola! Soy Andy Contento
 
-🎓 Estudiante de Ingeniería en Sistemas (7.º semestre) en la Pontificia Universidad Católica del Ecuador.  
-💻 Apasionado por el desarrollo de software, tanto web como móvil, con enfoque en soluciones funcionales para startups y comunidades.  
-🚀 En constante aprendizaje, con experiencia real en proyectos productivos y colaborativos.
+Soy estudiante de séptimo semestre de Ingeniería en Sistemas en la Pontificia Universidad Católica del Ecuador. Me especializo en desarrollo web y móvil, y disfruto construir soluciones prácticas e intuitivas que generen valor real, especialmente en entornos de startups o proyectos sociales.
+
+Me considero una persona curiosa, proactiva y enfocada en la mejora continua. Siempre busco aprender nuevas herramientas, adaptarme a los desafíos y trabajar en equipo con una mentalidad colaborativa y orientada a resultados.
 
 ---
 
-### 🛠 Tecnologías y herramientas que uso
+### 🛠 Tecnologías y herramientas que utilizo
 
 **Frontend**  
-- Vue (TypeScript) • Angular • React Native • Flutter
+- Vue (TypeScript) · Angular · React Native · Flutter · Kotlin
 
 **Backend**  
-- Node.js • Python • C# (ASP.NET)
+- Node.js · Python · C# (ASP.NET)
 
 **Bases de datos**  
-- PostgreSQL • MySQL • SQL Server
+- PostgreSQL · MySQL · SQL Server
 
-**Cloud y herramientas**  
-- Firebase Auth • Google Cloud • GitHub • Postman • Tailwind CSS • Bootstrap
+**Cloud y DevTools**  
+- Firebase Auth · Google Cloud · GitHub · Postman  
+- Estilos con Tailwind CSS y Bootstrap
 
 ---
 
-### 🧠 Certificaciones y logros
+### 🎓 Certificaciones y logros destacados
 
-- 🟢 Python Essentials 1 – Cisco Networking Academy (2024)  
-- 🧠 Exploraciones de Programación – Carnegie Mellon University (2025)  
-- 👨‍🏫 Ayudante de Cátedra – Estructura de Datos (PUCE, 2023–2024)  
-- 🧾 SQL para Principiantes  
-- 🌐 Miembro IEEE – Ecuador Section (2025–2026)
+- 🧠 *Python Essentials 1* – Cisco Networking Academy  
+- 🧠 *Exploraciones de Programación con Python* – Carnegie Mellon University  
+- 👨‍🏫 *Ayudante de Cátedra* – Estructura de Datos (PUCE, 2023–2024)  
+- 🧾 *Certificación en SQL para Principiantes*  
+- 🌐 *Miembro IEEE* – Sección Ecuador (vigente hasta 2026)
 
 ---
 
 ### 📌 Algunos de mis proyectos
 
-- 🔗 [Saluchi - App de geolocalización de salud](https://saluchi.geosaludchugchilan.me)  
-  React Native + Node.js – App móvil y web para servicios de salud en zonas rurales.
+- 🔗 [**Saluchi** – App de geolocalización de salud](https://saluchi.geosaludchugchilan.me)  
+  *React Native + Node.js* – Aplicación para ubicar servicios de salud en comunidades rurales.
 
-- 🔗 [Tienda Online Admin Dashboard](https://arriencosoft-gestion.netlify.app)  
-  Vue + TypeScript + ASP.NET C# – Plataforma administrativa de e-commerce.
+- 🔗 [**Tienda Online Admin Dashboard**](https://arriencosoft-gestion.netlify.app)
+- 🔗 [**Tienda Online**](https://arriendoscj.netlify.app/)  
+  *Vue + TypeScript + ASP.NET (C#)* – Panel administrativo completo con integración de APIs REST y SOAP.
 
-- 🔗 [Página web para museo (MANLA)](https://manla.org)  
-  Angular + Node.js – Sitio informativo cultural en producción.
+- 🔗 [**Sitio web para el Museo MANLA**](https://manla.org)  
+  *Angular + Node.js* – Plataforma informativa en producción para una entidad cultural.
 
 ---
 
-### 📫 Contacto
+### 📫 ¿Hablamos?
 
+Si te interesa colaborar, compartir ideas o simplemente conversar sobre tecnología, puedes contactarme por:
+
+📧 andyjapon.ios@gmail.com  
 📧 aacontento@puce.edu.ec  
 📍 Quito, Ecuador  
-🔗 [GitHub](https://github.com/andycontento)  
-🔗 [LinkedIn](https://linkedin.com/in/andycontento) *(si tienes uno, agrégalo)*
+🔗 [GitHub](https://github.com/andycontento)
 
 ---
 
-### ⚡ Curiosidades
+### ⚡ Sobre mí
 
-- Me encanta trabajar en soluciones reales con impacto social 🌍  
-- Disfruto del trabajo en equipo, especialmente en entornos ágiles con Scrum 🔄  
-- Siempre estoy buscando mejorar y aprender algo nuevo cada semana 📚  
+- Me apasiona trabajar en proyectos con impacto social.  
+- Disfruto del trabajo colaborativo en equipos ágiles (Scrum).  
+- Siempre estoy explorando nuevas tecnologías para llevar mis ideas a otro nivel.
 
 ---
 
-Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaborar o simplemente conversar sobre ideas de software!
-
+Gracias por pasarte por mi perfil. ¡Estoy abierto a nuevas oportunidades y colaboraciones! 🙌
