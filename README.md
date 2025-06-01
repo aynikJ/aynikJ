@@ -38,7 +38,7 @@ Me considero una persona curiosa, proactiva y enfocada en la mejora continua. Si
 - 🔗 [**Saluchi** – App de geolocalización de salud](https://saluchi.geosaludchugchilan.me)  
   *React Native + Node.js* – Aplicación para ubicar servicios de salud en comunidades rurales.
 
-- 🔗 [**Tienda Online Admin Dashboard**](https://arriencosoft-gestion.netlify.app)
+- 🔗 [**Tienda Online Admin Dashboard**](https://arriendoscj-gestion.netlify.app/)
 - 🔗 [**Tienda Online**](https://arriendoscj.netlify.app/)  
   *Vue + TypeScript + ASP.NET (C#)* – Panel administrativo completo con integración de APIs REST y SOAP.
 
